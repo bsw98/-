@@ -36,3 +36,9 @@ video {
   width: 100%;
   height: auto;
 }
+
+/* 반응형 Iframe */
+.iframeWrapper{
+  border:20px solid black;
+  background-color: violet;
+}
